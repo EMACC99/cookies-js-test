@@ -1,0 +1,15 @@
+{
+  "name": "cookies-js",
+  "version": "1.0.0",
+  "description": "cookies for node example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.1"
+  }
+}
